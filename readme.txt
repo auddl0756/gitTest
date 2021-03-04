@@ -1,4 +1,4 @@
-it's for git test,experiment
+it's git test,experiment
 for better git useage...
 
 
